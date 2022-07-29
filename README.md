@@ -1,1 +1,1 @@
-# this is a basic cding to enter solidity-ethereum coding.
+# this is a basic coding to enter solidity-ethereum coding.
